@@ -17,27 +17,39 @@ The code of this tutorial works on Linux,macOS and Windows
 ##Table of Contents
 
  
-###[1 Data Structures](/datastructures/introduction)
+###[Data Structures](/datastructures/introduction)
 
-  [1.1 ArrayList](/datastructures/arraylist)  
-  [1.2 HashTable](/datastructures/hashtable)  
-  [1.3 Stack](/datastructures/stack)
-  [1.4 Queue](/datastructures/queue)
-  [1.5 LinkedList](/datastructures/linkedlist)
-  [1.6 Tree](/datastructures/tree)
-  [1.7 BinarySearchTree](/datastructures/binarysearchtree)
-  [1.8 Graph](/datastructures/graph)
+   [1.1 ArrayList](/datastructures/arraylist)  
+   [1.2 HashTable](/datastructures/hashtable)  
+   [1.3 Stack](/datastructures/stack)  
+   [1.4 Queue](/datastructures/queue)  
+   [1.5 LinkedList](/datastructures/linkedlist)  
+   [1.6 Tree](/datastructures/tree)  
+   [1.7 BinarySearchTree](/datastructures/binarysearchtree)  
+   [1.8 Graph](/datastructures/graph)  
   
-###[2 Algorithms](/algorithms/introduction)
+###[Algorithms](/algorithms/introduction)
   
-   [2.1 Insertion Sort](/datastructures/insertionsort)
-   [1.2 Selection Sort](/datastructures/selectionsort)
-   [1.3 Merge Sort](/datastructures/mergesort)
-   [1.4 Bubble Sort](/datastructures/bubblesort)
-   [1.5 Heap Sort](/datastructures/heapsort)
-   [1.6 Quick Sort](/datastructures/quicksort)
+   [2.1 Insertion Sort](/datastructures/insertionsort)  
+   [2.2 Selection Sort](/datastructures/selectionsort)  
+   [2.3 Merge Sort](/datastructures/mergesort)  
+   [2.4 Bubble Sort](/datastructures/bubblesort)  
+   [2.5 Heap Sort](/datastructures/heapsort)  
+   [2.6 Quick Sort](/datastructures/quicksort)  
    
-###[3 Design Patterns](/designpatterns/introduction)
+###[Design Patterns](/designpatterns/introduction)
+
+   [3.1 FactoryMethod](/designpatterns/factorymethod)  
+   [3.2 Abstract Factory](/designpatterns/abstractfactory)  
+   [3.3 Singleton](/designpatterns/singleton)  
+   [3.4 Adapter](/designpatterns/adapter)  
+   [3.5 Template Method](/designpatterns/templatemethod)  
+   [3.6 Bridge](/designpatterns/bridge)  
+   [3.7 Builder](/designpatterns/builder)  
+   [3.7 Command](/designpatterns/command)  
+   [3.7 Decorator](/designpatterns/decorator)  
+   [3.7 Facade](/designpatterns/facade)  
+   
 
 
 
